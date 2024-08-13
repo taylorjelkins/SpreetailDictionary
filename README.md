@@ -8,7 +8,7 @@ It should support the following commands:
 > KEYS, MEMBERS, ADD, REMOVE, REMOVEALL, CLEAR, KEYEXISTS, MEMBEREXISTS, ALLMEMBERS, ITEMS
 
 Added commands outside requirements include:
-> HELP, EXIT
+> HELP, EXIT, ITEMCOUNT
 
 ## Requirements
 This application was built using Java, Gradle, and JUnit4
