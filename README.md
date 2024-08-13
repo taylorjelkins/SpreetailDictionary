@@ -23,3 +23,5 @@ To build the application, in the top directory use the following command:
 This will also run through all the unit tests as part of the build process. (As of testing locally this build was functional with the above versions).
 After the build is finished (it should only take a second or two) you can start the jar with the following command:
 > java -jar build/libs/SpreetailDictionary.jar
+
+If you see "Welcome to the Multi Value Dictionary, please enter a command (Enter HELP for a list of commands):" then the application is up and running.
