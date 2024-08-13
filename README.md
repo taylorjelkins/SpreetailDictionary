@@ -12,9 +12,11 @@ Added commands outside requirements include:
 
 ## Requirements
 This application was built using Java, Gradle, and JUnit4
-> Java Version:   22.0.2
-> Gradle Version: 8.9
-> JUnit4 Version: 4.13
+```
+Java Version:   22.0.2
+Gradle Version: 8.9
+JUnit4 Version: 4.13
+```
 
 ## Building and Running
 To build the application, in the top directory use the following command:
