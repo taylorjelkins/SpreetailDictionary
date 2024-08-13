@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dictionary.DictionaryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-08-13T15:49:06" hostname="LAPTOP-8ML0EV87" time="0.012">
+  <properties/>
+  <testcase name="testAdd" classname="com.dictionary.DictionaryTest" time="0.009"/>
+  <testcase name="testGetMembersWithKey" classname="com.dictionary.DictionaryTest" time="0.0"/>
+  <testcase name="testClear" classname="com.dictionary.DictionaryTest" time="0.0"/>
+  <testcase name="testCheckIfKeyExists" classname="com.dictionary.DictionaryTest" time="0.0"/>
+  <testcase name="testCheckIfMemberExists" classname="com.dictionary.DictionaryTest" time="0.0"/>
+  <testcase name="testRemoveMember" classname="com.dictionary.DictionaryTest" time="0.0"/>
+  <testcase name="testHasKeys" classname="com.dictionary.DictionaryTest" time="0.0"/>
+  <testcase name="testRemoveAll" classname="com.dictionary.DictionaryTest" time="0.0"/>
+  <system-out><![CDATA[Added member to key.
+Error: Given member already exists for given key.
+All dictionary entries have been cleared.
+Removed member from key.
+Removed member and purged the empty key.
+Removed key and all associated members.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
